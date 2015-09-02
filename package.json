@@ -6,7 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/the-feeling/amazon-lookup"
+  },
+  "author": {
+    "name": "Mykola Bilokonsky",
+    "email": "mbilokonsky@gmail.com",
+    "url": "http://twitter.com/mykola"
+  },
   "license": "ISC",
   "dependencies": {
     "apac": "^1.0.0"
